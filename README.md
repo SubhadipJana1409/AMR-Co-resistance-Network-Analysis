@@ -100,20 +100,7 @@ day16-coresistance-network/
 
 ---
 
-## 🏁 Block 2 Complete — Days 09–16 Summary
 
-| Day | Topic | Key Result |
-|-----|-------|------------|
-| 09 | AMR Prevalence | 88.2% MDR — KAN 100% resistant |
-| 10 | Multi-label RF | VAN AUC=0.993 — species predicts resistance |
-| 11 | GBM + SHAP | Age drives CIP resistance — SHAP explains why |
-| 12 | MIC Regression | VAN R²=0.734 — linear model wins |
-| 13 | Ensemble Stacking | Stacking loses on rare labels — voting wins |
-| 14 | Clinical Risk Score | Critical tier = 100% MDR |
-| 15 | Trend Analysis | VAN +1.17%/yr ↑, MDR burden ↓ |
-| **16** | **Co-resistance Network** | **ERY–AZM φ=1.0, 3 communities** |
-
----
 
 ## 🔗 Part of #30DaysOfBioinformatics
 **Author:** Subhadip Jana | [GitHub](https://github.com/SubhadipJana1409) | [LinkedIn](https://linkedin.com/in/subhadip-jana1409)
