@@ -3,10 +3,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![NetworkX](https://img.shields.io/badge/NetworkX-3.6-orange)
-![Block2](https://img.shields.io/badge/Block_2-COMPLETE-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> Graph-theoretic co-resistance network of 34 antibiotics across 2,000 clinical isolates — φ coefficient edges, community detection, hub centrality, and cross-class resistance patterns. **Final day of Block 2.**
+> Graph-theoretic co-resistance network of 34 antibiotics across 2,000 clinical isolates — φ coefficient edges, community detection, hub centrality, and cross-class resistance patterns.
 
 ---
 
